@@ -12,3 +12,9 @@ h1{
 .assign img{
   width:400px;
   padding: 10px;}
+body{
+  display:flex;
+  flex-wrap: wrap;}
+h1{
+  width: 100%;
+  display: block;}
